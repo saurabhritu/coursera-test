@@ -10,7 +10,9 @@ h1{
 }
 
 .layout{
+	position: relative;
 	width:100%;
+	margin:auto;
 }
 
 
@@ -25,6 +27,7 @@ h1{
 	/*display: table-cell;*/
 	float: left;
 	margin: 3px;
+	margin-left: 70px;
 }
 .container_2{
 	background-color: grey;
