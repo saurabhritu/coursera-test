@@ -10,7 +10,7 @@ h1{
 }
 
 .layout_1{
-	
+
 	width:100%;
 }
 
@@ -26,7 +26,7 @@ h1{
 	/*display: table-cell;*/
 	float: left;
 	margin: 3px;
-	margin-left: 70px;
+	margin-left: 5%;
 }
 .container_2{
 	background-color: grey;
