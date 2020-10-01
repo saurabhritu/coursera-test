@@ -1,2 +1,2 @@
 # coursera-test
-Jhon Hopkins university html css javascript
+HTML, CSS, JavaScript Course Jhonhopkins university
