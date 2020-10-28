@@ -1,6 +1,6 @@
 ## Welcome to My Web Showcase
 
-Go to menu page to access all layputs [Menu Page](https://saurabhritu.github.io/coursera-test/site/) to maintain and preview the content for website in Markdown files.
+Go to menu page to access all layouts [Menu Page](https://saurabhritu.github.io/coursera-test/site/) to maintain and preview the content for website in Markdown files.
 
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
